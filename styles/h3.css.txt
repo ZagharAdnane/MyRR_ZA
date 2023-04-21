@@ -1,6 +1,5 @@
 h3 {font size: xx-large;
    font-family: Sans-Serif;
-   color: black;
    text-align: center;
    border-bottom: solid 4px orange;
    font-weight: normal}
