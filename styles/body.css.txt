@@ -1,5 +1,5 @@
 body { font size: medium;
          font-family: Serif;
          background-color: black;
-         color: white;
+         color: black;
          font-weight: normal}
